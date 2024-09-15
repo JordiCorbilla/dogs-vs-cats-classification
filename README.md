@@ -6,7 +6,7 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 
 ## Dataset
 
-- **Source:** [Kaggle's Dogs vs. Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)
+- **Source:** [Kaggle's Dogs vs. Cats Dataset](https://www.kaggle.com/competitions/dogs-vs-cats/data)
 - **Description:** The dataset contains 25,000 images of dogs and cats (12,500 images for each class).
 
 ## Project Structure
