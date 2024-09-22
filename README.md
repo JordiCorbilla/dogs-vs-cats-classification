@@ -29,3 +29,7 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
    ```bash
    git clone https://github.com/jordicorbilla/dogs-vs-cats-classification.git
    cd dogs-vs-cats-classification
+
+## Run the Jupyter Notebook
+
+- run the notebook here: https://github.com/JordiCorbilla/dogs-vs-cats-classification/blob/main/dogs_vs_cats_inceptionResnetv2.ipynb
