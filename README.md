@@ -33,3 +33,7 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 ## Run the Jupyter Notebook
 
 - run the notebook here: https://github.com/JordiCorbilla/dogs-vs-cats-classification/blob/main/dogs_vs_cats_inceptionResnetv2.ipynb
+
+### Support me
+
+<a href="https://www.buymeacoffee.com/jordicorbilla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
